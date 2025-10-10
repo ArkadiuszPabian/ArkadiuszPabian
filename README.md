@@ -20,6 +20,11 @@ I'm a Fullstack Developer with 8 years of experience building modern web applica
 
 ## Tech Stack
 
+<details>
+  <summary>
+    <strong>Click here to view my Tech Stack</strong> 🚀
+  </summary>
+
 ### Languages
 
 <div align="left">
@@ -87,6 +92,8 @@ I'm a Fullstack Developer with 8 years of experience building modern web applica
   <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"><img src="images/windows11-original.svg" height="40" alt="windows logo" /></a>
   <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="images/android-original.svg" height="40" alt="android logo" /></a>
 </div>
+
+</details>
 
 ## Credits
 
