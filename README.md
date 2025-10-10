@@ -92,23 +92,23 @@ I'm a Fullstack Developer with 8 years of experience building modern web applica
 
 Logos and icons sourced from:
 
-<table align="left" border="0">
+<table align="left">
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="100" height="100">
       <a href="https://github.com/devicons/devicon" target="_blank" rel="noreferrer">
         <img src="images/devicon-original.svg" height="40" alt="Devicon logo" />
       </a>
       <br />
       Devicon
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100" height="100">
       <a href="https://xunit.net/" target="_blank" rel="noreferrer">
         <img src="images/xunit-original.svg" height="40" alt="xUnit logo" />
       </a>
       <br />
       xUnit
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100" height="100">
       <a href="https://picocss.com" target="_blank" rel="noreferrer">
         <img src="images/picocss-original.svg" height="40" alt="Pico CSS logo" />
       </a>
