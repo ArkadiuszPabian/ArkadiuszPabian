@@ -16,6 +16,7 @@ I'm a Fullstack Developer with 8 years of experience building modern web applica
 
 <p align="left">
   <a href="https://linkedin.com/in/arkadiusz-pabian" target="_blank" rel="noreferrer"><img src="images/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="mailto:arkadiusz.pabian@gmail.com" target="_blank" rel="noreferrer"><img src="images/email-original.svg" alt="Email" width="40" height="40"/></a>
 </p>
 
 ## Tech Stack
@@ -121,6 +122,13 @@ Logos and icons sourced from:
       </a>
       <br />
       Pico CSS
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="https://feathericons.com" target="_blank" rel="noreferrer">
+        <img src="images/feather-original.svg" height="40" alt="Feather Icons logo" />
+      </a>
+      <br />
+      Feather Icons
     </td>
   </tr>
 </table>
