@@ -121,14 +121,14 @@ Logos and icons sourced from:
         <img src="images/picocss-original.svg" height="40" alt="Pico CSS logo" />
       </a>
       <br />
-      Pico CSS
+      PicoCSS
     </td>
     <td align="center" width="100" height="100">
       <a href="https://feathericons.com" target="_blank" rel="noreferrer">
         <img src="images/feather-original.svg" height="40" alt="Feather Icons logo" />
       </a>
       <br />
-      Feather Icons
+      FeatherIcons
     </td>
   </tr>
 </table>
