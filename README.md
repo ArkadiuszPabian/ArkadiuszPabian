@@ -104,28 +104,28 @@ Logos and icons sourced from:
   <tr>
     <td align="center" width="100" height="100">
       <a href="https://github.com/devicons/devicon" target="_blank" rel="noreferrer">
-        <img src="images/devicon-original.svg" height="40" alt="Devicon logo" />
+        <img src="images/devicon-original.svg" height="40" width="40" alt="Devicon logo" />
       </a>
       <br />
       Devicon
     </td>
     <td align="center" width="100" height="100">
       <a href="https://xunit.net/" target="_blank" rel="noreferrer">
-        <img src="images/xunit-original.svg" height="40" alt="xUnit logo" />
+        <img src="images/xunit-original.svg" height="40" width="40" alt="xUnit logo" />
       </a>
       <br />
       xUnit
     </td>
     <td align="center" width="100" height="100">
       <a href="https://picocss.com" target="_blank" rel="noreferrer">
-        <img src="images/picocss-original.svg" height="40" alt="Pico CSS logo" />
+        <img src="images/picocss-original.svg" height="40" width="40" alt="Pico CSS logo" />
       </a>
       <br />
       PicoCSS
     </td>
     <td align="center" width="100" height="100">
       <a href="https://feathericons.com" target="_blank" rel="noreferrer">
-        <img src="images/feather-original.svg" height="40" alt="Feather Icons logo" />
+        <img src="images/feather-original.svg" height="40" width="40" alt="Feather Icons logo" />
       </a>
       <br />
       FeatherIcons
