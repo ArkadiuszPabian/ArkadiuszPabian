@@ -4,21 +4,6 @@
 
 I'm a Fullstack Developer with 8 years of experience building modern web applications. My expertise lies in creating dynamic UIs with **Angular** and robust backends using **Node.js** and **.NET Core**. Welcome to my digital workspace!
 
-## What I'm currently up to
-
-🔹 Finishing [Skills of Tomorrow 2.0](https://rsvp.withgoogle.com/events/umiejetnoscijutra) course about usage of AI tools in small- and medium-size companies
-
-🔹 Finishing showcase demo of RBAC app in Angular / ExpressJS
-
-🔹 Preparing for deep dive into [Rust workshop](https://stacja.it/produkt/bezplatnie-programowanie-w-jezyku-rust) at 18/10/2025
-
-## 📬 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/arkadiusz-pabian" target="_blank" rel="noreferrer"><img src="images/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="mailto:arkadiusz.pabian@gmail.com" target="_blank" rel="noreferrer"><img src="images/email-original.svg" alt="Email" width="40" height="40"/></a>
-</p>
-
 ## Tech Stack
 
 <details>
@@ -122,13 +107,6 @@ Logos and icons sourced from:
       </a>
       <br />
       PicoCSS
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="https://feathericons.com" target="_blank" rel="noreferrer">
-        <img src="images/feather-original.svg" height="40" width="40" alt="Feather Icons logo" />
-      </a>
-      <br />
-      FeatherIcons
     </td>
   </tr>
 </table>
