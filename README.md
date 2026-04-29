@@ -69,6 +69,7 @@ I'm a Fullstack Developer with 8 years of experience building modern web applica
 <div align="left">
   <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer"><img src="images/azuredevops-original.svg" height="40" alt="azure devops logo"  /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="images/docker-original.svg" height="40" alt="docker logo"  /></a>
+  <a href="https://www.kubernetes.io/" target="_blank" rel="noreferrer"><img src="images/kubernetes-original.svg" height="40" alt="kubernetes logo"  /></a>
 </div>
 
 ### Operating systems
@@ -80,6 +81,20 @@ I'm a Fullstack Developer with 8 years of experience building modern web applica
 </div>
 
 </details>
+
+## Certificates
+
+<table align="left">
+  <tr>
+    <td align="center" width="100" height="100">
+      <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+        <img src="images/kubernetes-original.svg" height="40" width="40" alt="Kubernetes logo" />
+      </a>
+      <br />
+      CKAD Certificate (Apr'26 - Apr'28) 
+    </td>
+  </tr>
+</table>
 
 ## Credits
 
