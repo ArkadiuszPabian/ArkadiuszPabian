@@ -84,44 +84,36 @@ I'm a Fullstack Developer with 8 years of experience building modern web applica
 
 ## Certificates
 
-<table align="left">
-  <tr>
-    <td align="center" width="100" height="100">
-      <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="images/kubernetes-original.svg" height="40" width="40" alt="Kubernetes logo" />
-      </a>
-      <br />
-      CKAD Certificate (Apr'26 - Apr'28) 
-    </td>
-  </tr>
-</table>
+<figure style="display: inline-block; text-align: center; width: 120px; margin: 10px;">
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="images/kubernetes-original.svg" height="40" width="40" alt="Kubernetes logo" />
+  </a>
+  <figcaption style="font-size: 0.8em; margin-top: 5px;">
+    CKAD Certificate<br/>(Apr'26 - Apr'28)
+  </figcaption>
+</figure>
 
 ## Credits
 
 Logos and icons sourced from:
 
-<table align="left">
-  <tr>
-    <td align="center" width="100" height="100">
-      <a href="https://github.com/devicons/devicon" target="_blank" rel="noreferrer">
-        <img src="images/devicon-original.svg" height="40" width="40" alt="Devicon logo" />
-      </a>
-      <br />
-      Devicon
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="https://xunit.net/" target="_blank" rel="noreferrer">
-        <img src="images/xunit-original.svg" height="40" width="40" alt="xUnit logo" />
-      </a>
-      <br />
-      xUnit
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="https://picocss.com" target="_blank" rel="noreferrer">
-        <img src="images/picocss-original.svg" height="40" width="40" alt="Pico CSS logo" />
-      </a>
-      <br />
-      PicoCSS
-    </td>
-  </tr>
-</table>
+<figure style="display: inline-block; text-align: center; width: 100px; margin: 10px; vertical-align: top;">
+  <a href="https://github.com/devicons/devicon" target="_blank" rel="noreferrer">
+    <img src="images/devicon-original.svg" height="40" width="40" alt="Devicon logo" />
+  </a>
+  <figcaption style="font-size: 0.8em; margin-top: 5px;">Devicon</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center; width: 100px; margin: 10px; vertical-align: top;">
+  <a href="https://xunit.net/" target="_blank" rel="noreferrer">
+    <img src="images/xunit-original.svg" height="40" width="40" alt="xUnit logo" />
+  </a>
+  <figcaption style="font-size: 0.8em; margin-top: 5px;">xUnit</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center; width: 100px; margin: 10px; vertical-align: top;">
+  <a href="https://picocss.com" target="_blank" rel="noreferrer">
+    <img src="images/picocss-original.svg" height="40" width="40" alt="Pico CSS logo" />
+  </a>
+  <figcaption style="font-size: 0.8em; margin-top: 5px;">PicoCSS</figcaption>
+</figure>
