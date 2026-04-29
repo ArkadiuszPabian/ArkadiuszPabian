@@ -84,7 +84,7 @@ I'm a Fullstack Developer with 8 years of experience building modern web applica
 
 ## Certificates
 
-| <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="images/kubernetes-original.svg" width="40" height="40" alt="Kubernetes logo" /></a> |
+| <a href="https://www.credly.com/badges/5bcd12a1-f5a8-4ad3-8e31-e0adb72499d6" target="_blank" rel="noreferrer"><img src="images/kubernetes-original.svg" width="40" height="40" alt="Kubernetes logo" /></a> |
 | :---: |
 | <small>CKAD Certificate<br/>(Apr'26 - Apr'28)</small> |
 
