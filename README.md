@@ -84,44 +84,14 @@ I'm a Fullstack Developer with 8 years of experience building modern web applica
 
 ## Certificates
 
-<div align="left">
-  <figure style="float: left; text-align: center; margin: 10px;">
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-      <img src="images/kubernetes-original.svg" height="40" width="40" alt="Kubernetes logo" />
-    </a>
-    <figcaption align="center">
-      <small>CKAD Certificate<br/>(Apr'26 - Apr'28)</small>
-    </figcaption>
-  </figure>
-</div>
-
-<br clear="left"/>
+| <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="images/kubernetes-original.svg" width="40" height="40" alt="Kubernetes logo" /></a> |
+| :---: |
+| <small>CKAD Certificate<br/>(Apr'26 - Apr'28)</small> |
 
 ## Credits
 
 Logos and icons sourced from:
 
-<div align="left">
-  <figure style="float: left; text-align: center; margin: 10px;">
-    <a href="https://github.com/devicons/devicon" target="_blank" rel="noreferrer">
-      <img src="images/devicon-original.svg" height="40" width="40" alt="Devicon logo" />
-    </a>
-    <figcaption align="center"><small>Devicon</small></figcaption>
-  </figure>
-
-  <figure style="float: left; text-align: center; margin: 10px;">
-    <a href="https://xunit.net/" target="_blank" rel="noreferrer">
-      <img src="images/xunit-original.svg" height="40" width="40" alt="xUnit logo" />
-    </a>
-    <figcaption align="center"><small>xUnit</small></figcaption>
-  </figure>
-
-  <figure style="float: left; text-align: center; margin: 10px;">
-    <a href="https://picocss.com" target="_blank" rel="noreferrer">
-      <img src="images/picocss-original.svg" height="40" width="40" alt="Pico CSS logo" />
-    </a>
-    <figcaption align="center"><small>PicoCSS</small></figcaption>
-  </figure>
-</div>
-
-<br clear="left"/>
+| <a href="https://github.com/devicons/devicon" target="_blank" rel="noreferrer"><img src="images/devicon-original.svg" width="40" height="40" alt="Devicon logo" /></a> | <a href="https://xunit.net/" target="_blank" rel="noreferrer"><img src="images/xunit-original.svg" width="40" height="40" alt="xUnit logo" /></a> | <a href="https://picocss.com" target="_blank" rel="noreferrer"><img src="images/picocss-original.svg" width="40" height="40" alt="Pico CSS logo" /></a> |
+| :---: | :---: | :---: |
+| <small>Devicon</small> | <small>xUnit</small> | <small>PicoCSS</small> |
