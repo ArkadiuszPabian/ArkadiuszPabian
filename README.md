@@ -84,36 +84,44 @@ I'm a Fullstack Developer with 8 years of experience building modern web applica
 
 ## Certificates
 
-<figure style="display: inline-block; text-align: center; width: 120px; margin: 10px;">
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="images/kubernetes-original.svg" height="40" width="40" alt="Kubernetes logo" />
-  </a>
-  <figcaption style="font-size: 0.8em; margin-top: 5px;">
-    CKAD Certificate<br/>(Apr'26 - Apr'28)
-  </figcaption>
-</figure>
+<div align="left">
+  <figure style="float: left; text-align: center; margin: 10px;">
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+      <img src="images/kubernetes-original.svg" height="40" width="40" alt="Kubernetes logo" />
+    </a>
+    <figcaption align="center">
+      <small>CKAD Certificate<br/>(Apr'26 - Apr'28)</small>
+    </figcaption>
+  </figure>
+</div>
+
+<br clear="left"/>
 
 ## Credits
 
 Logos and icons sourced from:
 
-<figure style="display: inline-block; text-align: center; width: 100px; margin: 10px; vertical-align: top;">
-  <a href="https://github.com/devicons/devicon" target="_blank" rel="noreferrer">
-    <img src="images/devicon-original.svg" height="40" width="40" alt="Devicon logo" />
-  </a>
-  <figcaption style="font-size: 0.8em; margin-top: 5px;">Devicon</figcaption>
-</figure>
+<div align="left">
+  <figure style="float: left; text-align: center; margin: 10px;">
+    <a href="https://github.com/devicons/devicon" target="_blank" rel="noreferrer">
+      <img src="images/devicon-original.svg" height="40" width="40" alt="Devicon logo" />
+    </a>
+    <figcaption align="center"><small>Devicon</small></figcaption>
+  </figure>
 
-<figure style="display: inline-block; text-align: center; width: 100px; margin: 10px; vertical-align: top;">
-  <a href="https://xunit.net/" target="_blank" rel="noreferrer">
-    <img src="images/xunit-original.svg" height="40" width="40" alt="xUnit logo" />
-  </a>
-  <figcaption style="font-size: 0.8em; margin-top: 5px;">xUnit</figcaption>
-</figure>
+  <figure style="float: left; text-align: center; margin: 10px;">
+    <a href="https://xunit.net/" target="_blank" rel="noreferrer">
+      <img src="images/xunit-original.svg" height="40" width="40" alt="xUnit logo" />
+    </a>
+    <figcaption align="center"><small>xUnit</small></figcaption>
+  </figure>
 
-<figure style="display: inline-block; text-align: center; width: 100px; margin: 10px; vertical-align: top;">
-  <a href="https://picocss.com" target="_blank" rel="noreferrer">
-    <img src="images/picocss-original.svg" height="40" width="40" alt="Pico CSS logo" />
-  </a>
-  <figcaption style="font-size: 0.8em; margin-top: 5px;">PicoCSS</figcaption>
-</figure>
+  <figure style="float: left; text-align: center; margin: 10px;">
+    <a href="https://picocss.com" target="_blank" rel="noreferrer">
+      <img src="images/picocss-original.svg" height="40" width="40" alt="Pico CSS logo" />
+    </a>
+    <figcaption align="center"><small>PicoCSS</small></figcaption>
+  </figure>
+</div>
+
+<br clear="left"/>
