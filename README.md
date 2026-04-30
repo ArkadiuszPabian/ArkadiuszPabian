@@ -6,6 +6,8 @@ I'm a Fullstack Developer with 8 years of experience building modern web applica
 
 ### ✍️ Latest articles:
 <!-- BLOG-POST-LIST:START -->
+- [Tips for passing CKAD exam at 1st attempt &lpar;2026 Edition&rpar;](https://dev.to/arkadiuszpabian/tips-for-passing-ckad-exam-at-1st-attempt-2026-edition-4b99)
+- [How to make splash screen with progress tracking in Angular?](https://dev.to/arkadiuszpabian/how-to-make-splash-screen-with-progress-tracking-in-angular-49id)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
