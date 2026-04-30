@@ -23,7 +23,7 @@ jobs:
           max_post_count: 2
           template: |
             <div>
-              $random_emoji <a href="$url"><b>$title</b></a><br/>
-              <small>📅 $date  •  🏷️ $tags</small>
+              $randomEmoji <a href="$url"><b>$title</b></a><br/>
+              <small>📅 $date🔹🏷️ $tags</small>
             </div>
             <br/>
