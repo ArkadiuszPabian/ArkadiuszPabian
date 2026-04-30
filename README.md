@@ -5,7 +5,7 @@
 I'm a Fullstack Developer with 8 years of experience building modern web applications. My expertise lies in creating dynamic UIs with **Angular** and robust backends using **Node.js** and **.NET Core**. Welcome to my digital workspace!
 
 ### ✍️ Latest articles:
-<!-- BLOG-POST-LIST:START --><a href="https://dev.to/arkadiuszpabian/tips-for-passing-ckad-exam-at-1st-attempt-2026-edition-4b99" target="_blank"><img src="$post_image" alt="Tips for passing CKAD exam at 1st attempt &lpar;2026 Edition&rpar;" width="250px" style="border-radius: 10px; border: 1px solid #30363d;"></a><a href="https://dev.to/arkadiuszpabian/how-to-make-splash-screen-with-progress-tracking-in-angular-49id" target="_blank"><img src="$post_image" alt="How to make splash screen with progress tracking in Angular?" width="250px" style="border-radius: 10px; border: 1px solid #30363d;"></a><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><table><tr><td><img src="$post_image" width="100px"/></td><td><a href="https://dev.to/arkadiuszpabian/tips-for-passing-ckad-exam-at-1st-attempt-2026-edition-4b99"><b>Tips for passing CKAD exam at 1st attempt &lpar;2026 Edition&rpar;</b></a><br/>Tue Apr 28 2026 8:53 PM</td></tr></table><table><tr><td><img src="$post_image" width="100px"/></td><td><a href="https://dev.to/arkadiuszpabian/how-to-make-splash-screen-with-progress-tracking-in-angular-49id"><b>How to make splash screen with progress tracking in Angular?</b></a><br/>Sun Jun 08 2025 8:18 PM</td></tr></table><!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
 
