@@ -5,23 +5,15 @@
 I'm a Fullstack Developer with 8 years of experience building modern web applications. My expertise lies in creating dynamic UIs with **Angular** and robust backends using **Node.js** and **.NET Core**. Welcome to my digital workspace!
 
 ### ✍️ Latest articles:
-<!-- BLOG-POST-LIST:START --><table>
-  <tr>
-    <td>
-      <a href="https://dev.to/arkadiuszpabian/tips-for-passing-ckad-exam-at-1st-attempt-2026-edition-4b99"><b>Tips for passing CKAD exam at 1st attempt &lpar;2026 Edition&rpar;</b></a><br/>
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="dev.to" /> 
-      <small>Tue Apr 28 2026 8:53 PM</small>
-    </td>
-  </tr>
-</table><table>
-  <tr>
-    <td>
-      <a href="https://dev.to/arkadiuszpabian/how-to-make-splash-screen-with-progress-tracking-in-angular-49id"><b>How to make splash screen with progress tracking in Angular?</b></a><br/>
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="dev.to" /> 
-      <small>Sun Jun 08 2025 8:18 PM</small>
-    </td>
-  </tr>
-</table><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><div>
+  $random_emoji <a href="https://dev.to/arkadiuszpabian/tips-for-passing-ckad-exam-at-1st-attempt-2026-edition-4b99"><b>Tips for passing CKAD exam at 1st attempt &lpar;2026 Edition&rpar;</b></a><br/>
+  <small>📅 Tue Apr 28 2026 8:53 PM  •  🏷️ $tags</small>
+</div>
+<br/><div>
+  $random_emoji <a href="https://dev.to/arkadiuszpabian/how-to-make-splash-screen-with-progress-tracking-in-angular-49id"><b>How to make splash screen with progress tracking in Angular?</b></a><br/>
+  <small>📅 Sun Jun 08 2025 8:18 PM  •  🏷️ $tags</small>
+</div>
+<br/><!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
 
