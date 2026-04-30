@@ -5,15 +5,17 @@
 I'm a Fullstack Developer with 8 years of experience building modern web applications. My expertise lies in creating dynamic UIs with **Angular** and robust backends using **Node.js** and **.NET Core**. Welcome to my digital workspace!
 
 ### ✍️ Latest articles:
-<!-- BLOG-POST-LIST:START --><div>
-  <a href="https://dev.to/arkadiuszpabian/tips-for-passing-ckad-exam-at-1st-attempt-2026-edition-4b99" style="color: white; text-decoration: none;"><b>Tips for passing CKAD exam at 1st attempt &lpar;2026 Edition&rpar;</b></a><br/>
-  <small style="color: grey;">📅 Tue Apr 28 2026 8:53 PM</small>
+<!-- BLOG-POST-LIST:START -->
+<div>
+  <a href="https://dev.to/arkadiuszpabian/tips-for-passing-ckad-exam-at-1st-attempt-2026-edition-4b99"><b>Tips for passing CKAD exam at 1st attempt &lpar;2026 Edition&rpar;</b></a><br/>
+  <sub>📅 Apr 28, 2026</sub>
 </div>
 <br/><div>
-  <a href="https://dev.to/arkadiuszpabian/how-to-make-splash-screen-with-progress-tracking-in-angular-49id" style="color: white; text-decoration: none;"><b>How to make splash screen with progress tracking in Angular?</b></a><br/>
-  <small style="color: grey;">📅 Sun Jun 08 2025 8:18 PM</small>
+  <a href="https://dev.to/arkadiuszpabian/how-to-make-splash-screen-with-progress-tracking-in-angular-49id"><b>How to make splash screen with progress tracking in Angular?</b></a><br/>
+  <sub>📅 Jun 08, 2025</sub>
 </div>
-<br/><!-- BLOG-POST-LIST:END -->
+<br/>
+<!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
 
