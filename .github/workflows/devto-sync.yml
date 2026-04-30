@@ -21,3 +21,4 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/arkadiuszpabian"
           max_post_count: 2
+          template: '<a href="$url" target="_blank"><img src="$post_image" alt="$title" width="250px" style="border-radius: 10px; border: 1px solid #30363d;"></a>'
