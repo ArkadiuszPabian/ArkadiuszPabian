@@ -5,10 +5,7 @@
 I'm a Fullstack Developer with 8 years of experience building modern web applications. My expertise lies in creating dynamic UIs with **Angular** and robust backends using **Node.js** and **.NET Core**. Welcome to my digital workspace!
 
 ### ✍️ Latest articles:
-<!-- BLOG-POST-LIST:START -->
-- [Tips for passing CKAD exam at 1st attempt &lpar;2026 Edition&rpar;](https://dev.to/arkadiuszpabian/tips-for-passing-ckad-exam-at-1st-attempt-2026-edition-4b99)
-- [How to make splash screen with progress tracking in Angular?](https://dev.to/arkadiuszpabian/how-to-make-splash-screen-with-progress-tracking-in-angular-49id)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><a href="https://dev.to/arkadiuszpabian/tips-for-passing-ckad-exam-at-1st-attempt-2026-edition-4b99" target="_blank"><img src="$post_image" alt="Tips for passing CKAD exam at 1st attempt &lpar;2026 Edition&rpar;" width="250px" style="border-radius: 10px; border: 1px solid #30363d;"></a><a href="https://dev.to/arkadiuszpabian/how-to-make-splash-screen-with-progress-tracking-in-angular-49id" target="_blank"><img src="$post_image" alt="How to make splash screen with progress tracking in Angular?" width="250px" style="border-radius: 10px; border: 1px solid #30363d;"></a><!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
 
