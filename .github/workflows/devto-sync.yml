@@ -22,12 +22,8 @@ jobs:
           feed_list: "https://dev.to/feed/arkadiuszpabian"
           max_post_count: 2
           template: |
-            <table>
-              <tr>
-                <td>
-                  <a href="$url"><b>$title</b></a><br/>
-                  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="dev.to" /> 
-                  <small>$date</small>
-                </td>
-              </tr>
-            </table>
+            <div>
+              $random_emoji <a href="$url"><b>$title</b></a><br/>
+              <small>📅 $date  •  🏷️ $tags</small>
+            </div>
+            <br/>
