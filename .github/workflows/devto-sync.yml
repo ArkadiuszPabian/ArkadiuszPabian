@@ -1,0 +1,21 @@
+# This workflow is responsible for fetching the latest blog posts from the specified dev.to feed and updating the README file of this repository with that information. It runs daily at midnight and can also be triggered manually.
+name: Latest dev.to blog posts
+on:
+  schedule:
+    # it triggers daily, each midnight
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/arkadiuszpabian"
+          max_post_count: 2
