@@ -21,9 +21,11 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/arkadiuszpabian"
           max_post_count: 2
+          tag_post_pre_newline: true
           template: |
             <div>
-              <a href="$url" style="color: white; text-decoration: none;"><b>$title</b></a><br/>
-              <small style="color: grey;">📅 $date</small>
+              <a href="$url"><b>$title</b></a><br/>
+              <sub>📅 $date</sub>
             </div>
             <br/>
+          date_format: "mmm dd, yyyy"
