@@ -1,5 +1,5 @@
+# This workflow is responsible for updating the year in the LICENSE file of this repository. It runs annually on January 1st and can also be triggered manually.
 name: Update License Year
-
 on:
   schedule:
     # it triggers at 1st of Jan each year
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update year in LICENSE and README
+      - name: Update year in LICENSE file
         run: |
           PREV_YEAR=$(date +%Y -d "last year")
           CURR_YEAR=$(date +%Y)
@@ -28,6 +28,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          git add LICENSE README.md
+          git add LICENSE
           
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update license year to $(date +%Y)" && git push)

@@ -4,6 +4,10 @@
 
 I'm a Fullstack Developer with 8 years of experience building modern web applications. My expertise lies in creating dynamic UIs with **Angular** and robust backends using **Node.js** and **.NET Core**. Welcome to my digital workspace!
 
+### ✍️ Latest articles:
+<!-- blog starts -->
+<!-- blog ends -->
+
 ## Tech Stack
 
 <details>
